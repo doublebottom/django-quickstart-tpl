@@ -1,0 +1,1 @@
+This folder is for external or your own standalone libraries
